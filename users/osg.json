@@ -1,0 +1,12 @@
+{
+	"_vim_modeline"		: "vim: ai sm et nu ts=8 sw=8 nobomb ff=unix filetype=json",
+	  "copyright"	: [
+		{
+			"name"		: "Tommy Reynolds",
+			"url"		: "https://osg.mit-license.org",
+			"email"		: "Oldest.Software.Guy@gmail.com",
+			"genus"		: "Human"
+                }
+	  ],
+	"url"			: "https://megacoder.uk",
+}
